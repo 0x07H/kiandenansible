@@ -4,4 +4,4 @@
   tasks:
     - name: Start
       debug:
-        msg: "{{ TestTestTest }}"
+        msg: "TestTestTest"
